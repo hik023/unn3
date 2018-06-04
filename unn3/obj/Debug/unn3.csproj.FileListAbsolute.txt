@@ -1,0 +1,11 @@
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\bin\Debug\unn3.exe.config
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\bin\Debug\unn3.exe
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\bin\Debug\unn3.pdb
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.csprojResolveAssemblyReference.cache
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.Form1.resources
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.Properties.Resources.resources
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.csproj.GenerateResource.Cache
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.csproj.CoreCompileInputs.cache
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.exe
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.pdb
+C:\Users\aleksandrbalaev\source\repos\unn3\unn3\obj\Debug\unn3.SearchForm.resources
